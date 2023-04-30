@@ -1,1 +1,1 @@
-console.log("hello");
+(()=>{"use strict";document.querySelector(".clickme").addEventListener("click",(()=>{alert("hello")}))})();
